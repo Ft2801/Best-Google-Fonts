@@ -1,6 +1,6 @@
 # Best Google Fonts
 
-A practical guide to 130 notable Google Fonts, organized into five chapters with editable specimens and controls generated from each family's real weights, styles, and variable axes.
+A practical guide to 135 notable Google Fonts, organized into five chapters with editable specimens and controls generated from each family's real weights, styles, and variable axes.
 
 Live site: [https://ft2801.github.io/Best-Google-Fonts/](https://ft2801.github.io/Best-Google-Fonts/)
 
@@ -8,7 +8,7 @@ Live site: [https://ft2801.github.io/Best-Google-Fonts/](https://ft2801.github.i
 
 ## Features
 
-- 130 font families organized alphabetically in five chapters.
+- 135 font families organized alphabetically in five chapters.
 - Concise historical and visual descriptions.
 - Editable specimens with a default size of 32px.
 - Capability-aware controls for weight, width, optical size, slant, roundness, and other variable axes.
@@ -16,6 +16,13 @@ Live site: [https://ft2801.github.io/Best-Google-Fonts/](https://ft2801.github.i
 - Light and dark themes.
 - Responsive navigation for desktop, tablet, and mobile.
 - Direct links to every family on Google Fonts.
+
+## Recent additions
+
+- Moved **Gruppo** from Sans Serif to Display (correct chapter for a decorative display face).
+- Moved **Hepta Slab** from Monospace to Serif (slab-serif typeface, not a monospace).
+- Added five new families in their correct chapters and alphabetical positions:
+  **Fira Sans** (Sans Serif), **Domine** (Serif), **Fira Code** (Monospace),   **Great Vibes** (Handwritten), and **Anton** (Display).
 
 ## GitHub Pages
 
