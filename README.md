@@ -17,13 +17,6 @@ Live site: [https://ft2801.github.io/Best-Google-Fonts/](https://ft2801.github.i
 - Responsive navigation for desktop, tablet, and mobile.
 - Direct links to every family on Google Fonts.
 
-## Recent additions
-
-- Moved **Gruppo** from Sans Serif to Display (correct chapter for a decorative display face).
-- Moved **Hepta Slab** from Monospace to Serif (slab-serif typeface, not a monospace).
-- Added five new families in their correct chapters and alphabetical positions:
-  **Fira Sans** (Sans Serif), **Domine** (Serif), **Fira Code** (Monospace),   **Great Vibes** (Handwritten), and **Anton** (Display).
-
 ## GitHub Pages
 
 The repository is designed for branch-based GitHub Pages deployment from the `main` branch and the repository root.
