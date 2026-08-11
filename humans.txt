@@ -1,0 +1,24 @@
+/* TEAM */
+
+Creator: Fabio Tempera
+Role: Computer Engineer and Web Developer
+GitHub: https://github.com/Ft2801
+
+/* PROJECT */
+
+Name: Best Google Fonts
+Website: https://ft2801.github.io/Best-Google-Fonts/
+Repository: https://github.com/Ft2801/Best-Google-Fonts
+Language: English
+Version: 1.0.0
+License: MIT
+
+/* TECHNOLOGY */
+
+Standards: HTML5, CSS, JavaScript, Web App Manifest
+Font service: Google Fonts
+Build process: None
+
+/* COPYRIGHT */
+
+Copyright 2026 Fabio Tempera.
